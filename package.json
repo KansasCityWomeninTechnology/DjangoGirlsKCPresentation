@@ -1,22 +1,21 @@
 {
-  "name": "reveal.js",
+  "name": "django girls kc presentation",
   "version": "3.2.0",
   "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "homepage": "https://djangogirls.org/kansascity",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
     "start": "grunt serve"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Kansas City Women in Technology",
+    "email": "kcwomenintech@gmail.com",
+    "web": "http://kcwomenintech.org"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/KansasCityWomeninTechnology/DjangoGirlsKCPresentation.git"
   },
   "engines": {
     "node": "~4.1.1"
